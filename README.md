@@ -6,8 +6,8 @@ const skills = {
   comment: { 'Me apaciona las ganas de aprender y conocer nuevas tecnologías, trabajando en proyectos 
   profesionales usando los Frameworks Laravel, Vue, Angular y buen manejo del control de versiones GIT.'
   },
-  code: ['Javascript', 'Typescript', 'PHP', 'HTML5'],
-  tools: ['Angular', 'Vue', 'Laravel', 'Ionic', 'Git', 'Docker']
+  code: ['Javascript', 'Typescript', 'PHP', 'HTML5', 'Node', 'Java Spring Boot', 'React Native'],
+  tools: ['Angular', 'Vue', 'Laravel', 'Ionic', 'Git', 'Github', 'Docker']
 }
 ```
   - 🔭 I’m currently working on Angular with Tailwind
